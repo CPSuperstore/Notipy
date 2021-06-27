@@ -4,9 +4,9 @@ The SDK for Python applications
 - [Publishing a Message](#publishing-a-message)
     - [PublicationResponse](#publicationresponse)
 - [Subscribing a Message](#subscribing-a-message)
-        - [Single Message Poll](#single-message-poll)
-        - [Indefinite Message Poll](#indefinite-message-poll)
-        - [Asynchronous Indefinite Message Poll](#asynchronous-indefinite-message-poll)
+    - [Single Message Poll](#single-message-poll)
+    - [Indefinite Message Poll](#indefinite-message-poll)
+    - [Asynchronous Indefinite Message Poll](#asynchronous-indefinite-message-poll)
     - [Message](#message)
 
 ## Publishing a Message
