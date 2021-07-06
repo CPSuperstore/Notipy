@@ -6,8 +6,8 @@ import typing
 import requests
 from requests.auth import HTTPBasicAuth
 
-import constants
-import exceptions
+import Notipy.constants as constants
+import Notipy.exceptions as exceptions
 
 
 class Message:

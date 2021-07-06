@@ -1,3 +1,3 @@
-from exceptions import *                                # noqa
-from publisher import Publisher, PublicationResponse    # noqa
-from subscriber import Subscriber, Message              # noqa
+from Notipy.exceptions import *                                # noqa
+from Notipy.publisher import Publisher, PublicationResponse    # noqa
+from Notipy.subscriber import Subscriber, Message              # noqa
