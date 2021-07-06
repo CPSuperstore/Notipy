@@ -1,2 +1,2 @@
-URL_BASE = "http://127.0.0.1:5000"
+URL_BASE = "https://notifi.pythonanywhere.com"
 API_BASE = URL_BASE + "/api/v1"
